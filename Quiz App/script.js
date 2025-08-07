@@ -39,7 +39,7 @@ const questions = [
     question: "Which element has the chemical symbol O?",
     answers: [
       { text: "Oxygen", correct: true },
-      { text: "Gold", correct: false },
+      { text: "Gold", correct: false },                                                                                     
       { text: "Osmium", correct: false },
       { text: "Oxide", correct: false },
     ],
